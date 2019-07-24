@@ -13,13 +13,13 @@ tags:
 ---
 Wiki für die Arbeit mit Ubuntu und diversen Anwendungen
 
-\# Path
+# Path
 
 memos/docs/README.md
 
 
 
-\# Navigation dieses Projektes anpassen
+# Navigation dieses Projektes anpassen
 
 memos/docs/.vuepress/config.js
 
@@ -27,7 +27,7 @@ memos/docs/.vuepress/config.js
 
 themeConfig / sidebar
 
-\# Durchführung
+# Durchführung
 
 vuepress zum laufen bringen
 
@@ -37,13 +37,16 @@ Nach erfolgter Modifikation bzw. Neuanlage einer Seite muss das Sevice mit
 
 
 
+```bash
 yarn docs:dev
+```
+
 
 ausgeführt werden
 
 
 
-\# Weiterführende Formatierungen mit Markdown
+# Weiterführende Formatierungen mit Markdown
 
 Zur Info
 
@@ -53,7 +56,7 @@ Markdown ist eine extension zu vuepress. Formatierungen wie Links, Code Darstell
 
 
 
-\# Boxen
+# Boxen
 
 INFO BOX
 
