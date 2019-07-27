@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Wiki für die Arbeit mit Ubuntu und diversen Anwendungen
-image: /img/rb7qa2x.jpg
+image: /img/ubuntu_pics.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: '                                               Support Java for a better world'
 mainpitch:
   title: Path
   description: |
