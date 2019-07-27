@@ -9,8 +9,8 @@ mainpitch:
   description: |
     memos/docs/README.md
 description: >-
-  Die Seite soll helfen, Arbeitsabläufe, welche nicht sonderlich oft
-  durchgeführt werden, zu dokumtieren.
+  Die Seite soll helfen, Arbeitsabläufe, welche nicht oft durchgeführt werden,
+  zu dokumentieren.
 intro:
   blurbs:
     - image: /img/coffee.png
