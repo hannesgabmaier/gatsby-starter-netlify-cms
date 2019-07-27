@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Wiki für die Arbeit mit Ubuntu und diversen Anwendungen
+image: /img/rb7qa2x.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi hannes was here
-  description: >
-    And again.... Kaldi is the coffee store for everyone who believes that great
-    coffee shouldn't just taste good, it should do good too. We source all of
-    our beans directly from small scale sustainable farmers and make sure part
-    of the profits are reinvested in their communities.
+  title: Path
+  description: |
+    memos/docs/README.md
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Die Seite soll helfen, Arbeitsabläufe, welche nicht sonderlich oft
+  durchgeführt werden, zu dokumtieren.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +40,11 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Navigation um dieses Projekt anpassen
+  description: |+
+    memos/docs/.vuepress/config.js
+    themeConfig / sidebar
+
 main:
   heading: Great coffee with no compromises
   description: >
